@@ -16,7 +16,7 @@ const data = {
   ],
   products: [
     {
-      _id: "1",
+      
       name: "pillsbury atta",
       category: "weat",
       image: "/images/atta1.jpg",
@@ -28,7 +28,7 @@ const data = {
       description: "high quality product",
     },
     {
-      _id: "2",
+      
       name: "aashirvad atta",
       category: "weat",
       image: "/images/atta2.jpg",
@@ -40,7 +40,7 @@ const data = {
       description: "high quality product",
     },
     {
-      _id: "3",
+      
       name: "fortune chkki frsh atta",
       category: "weat",
       image: "/images/atta3.jpg",
@@ -52,20 +52,19 @@ const data = {
       description: "high quality product",
     },
     {
-      _id: "4",
+      
       name: "chakki atta",
       category: "weat",
       image: "/images/atta4.jpg",
       price: 200,
       countInStock: 15,
-
       brand: "aashirvad",
       rating: 4.9,
       numReviews: 19,
       description: "high quality product",
     },
     {
-      _id: "5",
+      
       name: "fortune besan",
       category: "gram flour",
       image: "/images/atta5.jpg",
@@ -77,7 +76,7 @@ const data = {
       description: "high quality product",
     },
     {
-      _id: "6",
+      
       name: "fortune suji",
       category: "semolina",
       image: "/images/atta6.jpg",
@@ -89,7 +88,7 @@ const data = {
       description: "high quality product",
     },
     {
-      _id: "7",
+      
       name: "fortune suji",
       category: "semolina",
       image: "/images/atta6.jpg",
@@ -101,7 +100,7 @@ const data = {
       description: "high quality product",
     },
     {
-      _id: "8",
+      
       name: "fortune suji",
       category: "semolina",
       image: "/images/atta6.jpg",
@@ -113,7 +112,7 @@ const data = {
       description: "high quality product",
     },
     {
-      _id: "9",
+      
       name: "fortune suji",
       category: "semolina",
       image: "/images/atta6.jpg",
